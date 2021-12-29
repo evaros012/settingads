@@ -2,10 +2,10 @@
   "Ads":
   [
     {
-      "select_main_ads": "APPODEAL",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"",
       "main_ads_banner": "",
-      "appodeal_apikey": "7649b1c9307d373c0eb9c27e8e27f9a9abe2d577b4b65ef5",
+      "appodeal_apikey": "",
       "main_ads_intertitial":"",
       "native_for_admob":"",
       "backup_ads_banner":"",
