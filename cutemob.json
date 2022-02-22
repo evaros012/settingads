@@ -2,17 +2,17 @@
   "Ads":
   [
     {
-      "select_main_ads": "STARTAPP",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "",
+      "main_ads_banner": "ca-app-pub-3290536250326767/3815356816",
       "appodeal_apikey": "",
-      "main_ads_intertitial":"",
+      "main_ads_intertitial":"ca-app-pub-3290536250326767/1189193478",
       "native_for_admob":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "interval_intertitial": 0,
-      "initialize_sdk":"201987850",
-      "initialize_sdk_backup_ads":"208687906",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"201987850",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
